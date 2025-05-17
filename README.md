@@ -80,7 +80,7 @@
 
 ### 📘 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vishal-rankhamb?theme=dark&font=baloo&ext=activity)](https://leetcode.com/u/vishal-rankhamb/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vishal-rankhamb?theme=dark&font=baloo&ext=activity)](https://leetcode.com/vishal-rankhamb/)
 
 ---
 

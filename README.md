@@ -1,6 +1,9 @@
 <!-- Advanced GitHub README by ChatGPT -->
 
 <h1 align="center">Hey 👋, I'm Vishal</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Welcome GIF" />
+</p>
 <h3 align="center">🚀 Backend Developer | ☕ Java & Spring Boot | 🔗 ServiceNow Integrations | 📘 Lifelong Learner</h3>
 
 <p align="center">
@@ -20,15 +23,18 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ServiceNow-%2300c1d5.svg?style=for-the-badge&logo=servicenow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
+  <img src="https://github.com/vishal-rankhamb/vishal-rankhamb/blob/main/sn-logo-white.webp" width="80" height="30" alt="ServiceNow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
+
 
 ---
 
@@ -88,3 +94,6 @@
 ---
 
 <p align="center">Thanks for stopping by! ⭐ Feel free to check out my repositories and leave a ⭐ if something helps you!</p>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=vishal-rankhamb&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>

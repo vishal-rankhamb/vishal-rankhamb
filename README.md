@@ -1,5 +1,4 @@
 <!-- Advanced GitHub README by ChatGPT -->
-
 <h1 align="center">Hey 👋, I'm Vishal</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Welcome GIF" />
@@ -35,6 +34,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="40" height="40" alt="DBeaver" />
 </p>
 
+
+---
+
+
+### 📊 Skills Progress
+
+| Skill       | Progress |
+|-------------|----------|
+| Java        | ![Java](https://img.shields.io/badge/Java-90%25-blueviolet) |
+| Spring Boot | ![Spring Boot](https://img.shields.io/badge/SpringBoot-80%25-brightgreen) |
+| ServiceNow  | ![ServiceNow](https://img.shields.io/badge/ServiceNow-70%25-yellowgreen) |
+| MySQL       | ![MySQL](https://img.shields.io/badge/MySQL-85%25-blue) |
+| Git         | ![Git](https://img.shields.io/badge/Git-95%25-orange) |
+| Postman     | ![Postman](https://img.shields.io/badge/Postman-85%25-critical) |
+| C++         | ![C++](https://img.shields.io/badge/C++-75%25-informational) |
 
 ---
 

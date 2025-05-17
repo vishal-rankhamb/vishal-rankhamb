@@ -1,8 +1,8 @@
-name: Recent Activity
+name: Update Recent Activity
 
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
+    - cron: '0 * * * *'   # Runs every hour at minute 0
   workflow_dispatch:
 
 jobs:
@@ -10,9 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: activity-workflow/activity-workflow@v1
+      
+      - name: Update recent activity section in README
+        uses: activity-workflow/activity-workflow@v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           repository: vishal-rankhamb/vishal-rankhamb
-          section_marker: "activity"
+          section_marker: activity
           output: README.md
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update recent GitHub activity"
+          git push
+        continue-on-error: true

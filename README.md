@@ -1,4 +1,5 @@
 <!-- Advanced GitHub README by ChatGPT -->
+
 <h1 align="center">Hey 👋, I'm Vishal</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Welcome GIF" />
@@ -74,6 +75,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-rankhamb&layout=compact&theme=radical" alt="Top Languages" width="40%">
 </p>
+
+---
+
+### 📘 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vishal-rankhamb?theme=dark&font=baloo&ext=activity)](https://leetcode.com/vishal-rankhamb/)
 
 ---
 
